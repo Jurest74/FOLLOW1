@@ -166,4 +166,16 @@
   <ItemGroup>
     <BundleResource Include="Resources\googleLogo.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Tablero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Plus.png" />
+  </ItemGroup>
 </Project>

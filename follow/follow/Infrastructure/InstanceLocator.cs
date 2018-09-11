@@ -4,7 +4,7 @@ using System.Text;
 
 namespace follow.Infrastructure
 {
-    using View_models;
+    using View_model;
     public class InstanceLocator
     {
         public object Main
