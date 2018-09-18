@@ -943,11 +943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\follow\\follow\\follow.iOS\\follow.iOS.csproj",
+      "projectUniqueName": "D:\\Github\\FOLLOW1\\follow\\follow.iOS\\follow.iOS.csproj",
       "projectName": "follow.iOS",
-      "projectPath": "D:\\Github\\follow\\follow\\follow.iOS\\follow.iOS.csproj",
+      "projectPath": "D:\\Github\\FOLLOW1\\follow\\follow.iOS\\follow.iOS.csproj",
       "packagesPath": "C:\\Users\\jures\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\follow\\follow\\follow.iOS\\obj\\",
+      "outputPath": "D:\\Github\\FOLLOW1\\follow\\follow.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -964,8 +964,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Github\\follow\\follow\\follow\\follow.csproj": {
-              "projectPath": "D:\\Github\\follow\\follow\\follow\\follow.csproj"
+            "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj": {
+              "projectPath": "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj"
             }
           }
         }

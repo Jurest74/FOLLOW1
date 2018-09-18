@@ -608,3 +608,15 @@ G:\follow\follow\follow.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.tx
 G:\follow\follow\follow.UWP\obj\x86\Debug\GalaSoft.MvvmLight.Platform.pri.xml
 G:\follow\follow\follow.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 G:\follow\follow\follow.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\follow.UWP.csprojAssemblyReference.cache
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\App.g.i.cs
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\App.g.cs
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\MainPage.g.cs
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\App.xaml
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\MainPage.xaml
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\App.xbf
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\MainPage.xbf
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\follow.UWP.exe
+D:\Github\FOLLOW1\follow\follow.UWP\obj\x86\Debug\follow.UWP.pdb

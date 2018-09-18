@@ -470,11 +470,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\follow\\follow\\follow\\follow.csproj",
+      "projectUniqueName": "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj",
       "projectName": "follow",
-      "projectPath": "D:\\Github\\follow\\follow\\follow\\follow.csproj",
+      "projectPath": "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj",
       "packagesPath": "C:\\Users\\jures\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\follow\\follow\\follow\\obj\\",
+      "outputPath": "D:\\Github\\FOLLOW1\\follow\\follow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

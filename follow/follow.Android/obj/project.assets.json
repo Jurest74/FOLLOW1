@@ -927,11 +927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\follow\\follow\\follow.Android\\follow.Android.csproj",
+      "projectUniqueName": "D:\\Github\\FOLLOW1\\follow\\follow.Android\\follow.Android.csproj",
       "projectName": "follow.Android",
-      "projectPath": "D:\\Github\\follow\\follow\\follow.Android\\follow.Android.csproj",
+      "projectPath": "D:\\Github\\FOLLOW1\\follow\\follow.Android\\follow.Android.csproj",
       "packagesPath": "C:\\Users\\jures\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\follow\\follow\\follow.Android\\obj\\",
+      "outputPath": "D:\\Github\\FOLLOW1\\follow\\follow.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -948,8 +948,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\Github\\follow\\follow\\follow\\follow.csproj": {
-              "projectPath": "D:\\Github\\follow\\follow\\follow\\follow.csproj"
+            "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj": {
+              "projectPath": "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj"
             }
           }
         }

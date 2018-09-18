@@ -7779,11 +7779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\follow\\follow\\follow.UWP\\follow.UWP.csproj",
+      "projectUniqueName": "D:\\Github\\FOLLOW1\\follow\\follow.UWP\\follow.UWP.csproj",
       "projectName": "follow.UWP",
-      "projectPath": "D:\\Github\\follow\\follow\\follow.UWP\\follow.UWP.csproj",
+      "projectPath": "D:\\Github\\FOLLOW1\\follow\\follow.UWP\\follow.UWP.csproj",
       "packagesPath": "C:\\Users\\jures\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\follow\\follow\\follow.UWP\\obj\\",
+      "outputPath": "D:\\Github\\FOLLOW1\\follow\\follow.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7803,8 +7803,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\Github\\follow\\follow\\follow\\follow.csproj": {
-              "projectPath": "D:\\Github\\follow\\follow\\follow\\follow.csproj"
+            "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj": {
+              "projectPath": "D:\\Github\\FOLLOW1\\follow\\follow\\follow.csproj"
             }
           }
         }
